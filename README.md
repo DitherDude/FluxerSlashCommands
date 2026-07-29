@@ -17,6 +17,7 @@
 * Bots therefore are permissionless by default https://web.canary.fluxer.app/channels/1427764813854588940/1523845240144801793/1526618914350440448
 * insight is still somewhat needed https://web.canary.fluxer.app/channels/1427764813854588940/1523845240144801793/1526616869459468288
 * Bots will by-default **not** have message read permissions
+  - If a bot requires read perms, (a) it will need to be open-source, and only then (b) Fluxer will host it https://web.canary.fluxer.app/channels/1427764813854588940/1523845240144801793/1531999983568429056
 * Bots with read message perms have a notice https://web.canary.fluxer.app/channels/1427764813854588940/1523845240144801793/1531398357002493952
 
 ## AutoMod
